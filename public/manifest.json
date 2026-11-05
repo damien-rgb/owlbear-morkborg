@@ -1,11 +1,11 @@
 {
   "manifest_version": 1,
-  "name": "MÖRK BORG Character Sheet",
-  "version": "4.2.0",
-  "description": "MÖRK BORG character sheet extension for Owlbear Rodeo.",
+  "name": "MÖRK BORG Character Sheet (fixed)",
+  "version": "4.2.1",
+  "description": "MÖRK BORG character sheet for Owlbear Rodeo. Patched fork: SDK-readiness race fixed.",
   "icon": "/owlbear-morkborg/icon.svg",
   "action": {
-    "title": "MÖRK BORG Sheet",
+    "title": "MÖRK BORG Sheet (fixed)",
     "icon": "/owlbear-morkborg/icon.svg",
     "popover": "/owlbear-morkborg/index.html",
     "width": 525,
